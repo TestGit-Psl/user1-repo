@@ -1,1 +1,0 @@
-Connector should not ingests file contents when files have been deleted
